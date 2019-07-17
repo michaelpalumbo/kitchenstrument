@@ -1,3 +1,3 @@
 # kitchenstrument
 
-this **is** the first draft
+R Murray Shafer and use of image-sound relationships?
